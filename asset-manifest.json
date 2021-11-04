@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trips-organizer/static/css/main.c23137d6.chunk.css",
+    "main.js": "/trips-organizer/static/js/main.f359de41.chunk.js",
+    "main.js.map": "/trips-organizer/static/js/main.f359de41.chunk.js.map",
+    "runtime-main.js": "/trips-organizer/static/js/runtime-main.63dd506b.js",
+    "runtime-main.js.map": "/trips-organizer/static/js/runtime-main.63dd506b.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/trips-organizer/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.0fd085d6.chunk.js": "/trips-organizer/static/js/2.0fd085d6.chunk.js",
+    "static/js/2.0fd085d6.chunk.js.map": "/trips-organizer/static/js/2.0fd085d6.chunk.js.map",
+    "index.html": "/trips-organizer/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/trips-organizer/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.c23137d6.chunk.css.map": "/trips-organizer/static/css/main.c23137d6.chunk.css.map",
+    "static/js/2.0fd085d6.chunk.js.LICENSE.txt": "/trips-organizer/static/js/2.0fd085d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63dd506b.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.0fd085d6.chunk.js",
+    "static/css/main.c23137d6.chunk.css",
+    "static/js/main.f359de41.chunk.js"
+  ]
+}
