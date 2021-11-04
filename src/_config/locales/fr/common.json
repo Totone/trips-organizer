@@ -1,0 +1,18 @@
+{
+    "Arrival is day after_one": "La date d'arrivée est le lendemain du jour du départ",
+    "Arrival is day after_other": "La date d'arrivée est {{count}} jours après celle du départ",
+    "Available trips list": "Liste des trajets disponibles",
+    "Book": "Réserver",
+    "Booked trips": "Trajets réservés",
+    "Cancel book": "Annuler cette réservation",
+    "Choose bus stop": "Choisissez un arrêt de départ",
+    "Clear cache": "Les données récupérées sont sauvegardées pour un accès plus rapide. Cliquez pour effacer ces données et récupérer les dernières mises à jour distantes",
+    "Date": "Date",
+    "Fetch all trips": "Récupérer tous les trajets disponibles depuis tous les arrêts",
+    "From where": "D'où souhaitez-vous partir ?",
+    "Hour": "Heure",
+    "No booked trip": "Vous n'avez réservé aucun trajet",
+    "Sort by time": "Trier le tableau des trajets disponibles en fonction de l'heure",
+    "Sort by stop": "Trier le tableau des trajets disponibles en fonction du nom des arrêts",
+    "Trip": "Trajet"
+}

@@ -1,0 +1,1 @@
+export type TripDataItemType = "arrivalStop"|"arrivalTime"|"date"|"departureStop"|"departureTime"|"arrow"
